@@ -1,19 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import React,{useState} from 'react'
 import Items from './items/items'
 import { FaPlusCircle } from "react-icons/fa";

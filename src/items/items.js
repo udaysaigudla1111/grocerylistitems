@@ -1,32 +1,15 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import React,{useState} from 'react'
 import '../items/items.css';
 //import { FaPlusCircle } from "react-icons/fa";
 const Items = (props) => {
-    var count=1;
+    
     const [searchTerm,setSearchTerm] = useState('');
-    const [itemmm,setitemmm] = useState('');
+    
   
     const search = (event) => {
         setSearchTerm(event.target.value);
     }
-    const btnclick = () => {
-         ++count;
-      
-    }
+  
   return (
     <div className='data'>
            
