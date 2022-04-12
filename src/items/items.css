@@ -1,0 +1,32 @@
+
+
+
+
+
+
+
+
+
+
+.data{
+    text-align: center;
+    margin-top: 50px;
+}
+.input{
+    height:25px;
+    width:250px;
+    margin: 5px;
+}
+.items{
+    margin: 15px;
+}
+.tble{
+    position: relative;
+    left: 550px;
+    border:1px solid black;
+    border-top-style: none;
+    border-collapse: collapse;
+}
+.tablebottom{
+    
+}
